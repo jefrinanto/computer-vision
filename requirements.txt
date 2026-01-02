@@ -1,0 +1,5 @@
+tensorflow
+pillow
+matplotlib
+numpy
+requests
